@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cruid-operation/static/css/main.253b9f61.css",
+    "main.js": "/react-cruid-operation/static/js/main.345d6fde.js",
+    "static/js/787.452e33a9.chunk.js": "/react-cruid-operation/static/js/787.452e33a9.chunk.js",
+    "index.html": "/react-cruid-operation/index.html",
+    "main.253b9f61.css.map": "/react-cruid-operation/static/css/main.253b9f61.css.map",
+    "main.345d6fde.js.map": "/react-cruid-operation/static/js/main.345d6fde.js.map",
+    "787.452e33a9.chunk.js.map": "/react-cruid-operation/static/js/787.452e33a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253b9f61.css",
+    "static/js/main.345d6fde.js"
+  ]
+}
